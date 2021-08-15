@@ -1,0 +1,8 @@
+Next generation telematics and navigation features required in the new versions. 
+1. auto pairing with vehicle bluetooth systems 
+2. current alerts are set based on a single speed limit. The alerts should be based on the zone speeds dynamically to alert the driver in the drive zone they are in.
+3. auto pairing and data transfer to the mobile device in different formats. 
+4. route ranking based various criteria such as scenic route, shortest path, business districts
+5. easy plug and play with heads up display for augmented reality 
+6. intervehicular chat communication services 
+7. blockchain based travel stream recorder
